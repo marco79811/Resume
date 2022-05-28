@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"></meta>
+	<style>
+		.table,th{border:0.5px dashed black;}
+		.skillTable{border:0.5px dashed black;}
+		/*.selfIntroduction{align:left;font-size:12px;font-weight:bold;}*/
+	</style>
+	<title>Marco's Resume</title>
+</head>
+<body>
+<h2><center>Marco Xu</center></h2>
+	<div>
+		<h4><center>Quality Assurance Engineer</h4></center>
+	<h5 align="center">&#128231;&emsp;E-mail:marco79811@hotmail.com
+	 &emsp;&emsp;&emsp;&emsp;&#128241;&emsp;Mobile: 0935893258</h5>
+	</div>
+	
+<hr/></br>
+<table width="200">
+<th>Work Experience</th>
+</table>
+<div><h3>Chang Chun Petrochemical Co., Ltd</h3>
+<h4><strong>2019.5 - present</strog>&emsp;&emsp;&emsp;Quality Assurance Engineer</h4>
+<ul>
+	<li>Mainly responsible of auditing and customer service.</li>
+	<li>Lead a group which consist of 10 technicans.</li>
+	<li>Qualified IATF 16949, ISO 9001 and ISO 45001 internal auditor.</li>
+		<li>Carry out BIS(Bureau of Indian Standards) certification, whcih is expected to brings in approximately $109,500 per year.</li>
+		<li>Introduce and invent method to reduce the cost of reagent, testing time and manpower.</li></div>
+
+<div><h3>Micron Technology, Inc.</h3>
+<h4><strong>2017.7 - 2019.2</strog>&emsp;&emsp;&emsp;Wet Process Engineer</h4>
+<ul>
+	<li>Process Engineer of WET process, in charge of backside wet etch process, vapor etch, and wet bevel.</li>
+	<li>Supported the line stop issue of sister fab due to nitrogen issue which has shortened the time of recovery by 2 days.</li>
+	<li>Introduce of new product and the adaption of system and new technology.</li>
+</ul>
+</div>
+<hr/></br>
+<table width="200">
+<th>Education</th>
+</table>
+<div>
+	<h3>Chung Cheng University/Master of Philosophy</h3>
+<h4>
+	<strong>2014.9 - 2017.3</strog>&emsp;&emsp;&emsp;Department of Chemistry and Biochemistry, </br>
+		&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Theoretical and Computational Laboratory</h4>
+<ul>
+	<h5 align="left">Thesis topic: Li4-xNaxTi5O12, A Sodium Ion Battery Anode Material: Theoretical and Computational Study.</h5>
+	<li>Work station administrator of the lab.</li>
+	<li>Proficient in Linux System.</li>
+	<li>A good team worker, can be any position in neither softball varsity nor the lab.</li>
+</ul>		
+</div>
+</br>
+<div>
+	
+	<h3>Chung Yuan Christian University/BA of Philosophy</h3>
+<h4>
+	<strong>2009.6 - 2014.9</strog>&emsp;&emsp;&emsp;Department of Chemistry</h4>
+		
+</div>
+
+<hr/></br>
+<table>
+<th>Skills</th>
+</table>
+<div>
+	
+<ul>
+<li>JavaScript</li>
+<li>HTML</li>
+<li>Python</li>
+<li>Swift</li>
+<li>Java</li>
+<li>MS Office</li>
+</ul>
+
+</div>
+<hr/></br>
+<table>
+<th>Language blitiy</th>
+</table>
+
+<ul>
+	<li>EnglishーTOEIC 815 Points </li>
+	<li>JapaneseーJLPT N3</li>	
+</ul>
+
+</br>
+</br>
+
+</body>
+</html>
